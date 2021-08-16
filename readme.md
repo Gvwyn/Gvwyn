@@ -1,1 +1,1 @@
-im cool
+Learning C/C++ by myself
