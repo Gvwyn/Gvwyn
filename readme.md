@@ -3,4 +3,4 @@ i have like a billion projects, none of them was ever finished, or even got clos
 dunno when i'm not suffering from the pain of C++ i listen to music, try to comprehend my reason to exist
 
 but Balazs, what the fuck are you working on right now?  
-good question m8, i have no idea, i'm doing a portfolio looking thing now, a snake game stuff called Snaek
+good question m8, i have no idea, i'm doing a portfolio looking thing now, & a snake game stuff called Snaek
