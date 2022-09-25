@@ -1,2 +1,2 @@
-i use the internet  
-![image](https://user-images.githubusercontent.com/71901737/192142909-444b0cf7-f7ce-42d5-aaad-f90d77074362.png)
+all my pain:  
+![image](https://user-images.githubusercontent.com/71901737/192142995-8e397d6c-2426-40e7-b469-96229adc82fe.png)
